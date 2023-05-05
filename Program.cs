@@ -6,7 +6,7 @@ namespace StringWithWrongs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введіть першу строку : ");
+            Console.WriteLine("Введіть першу строку: ");
             string str1 = Console.ReadLine();
 
             Console.WriteLine("Введіть другу строку: ");
