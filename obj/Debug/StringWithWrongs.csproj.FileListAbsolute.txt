@@ -1,0 +1,8 @@
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\bin\Debug\StringWithWrongs.exe.config
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\bin\Debug\StringWithWrongs.exe
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\bin\Debug\StringWithWrongs.pdb
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\obj\Debug\StringWithWrongs.csproj.AssemblyReference.cache
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\obj\Debug\StringWithWrongs.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\obj\Debug\StringWithWrongs.csproj.CoreCompileInputs.cache
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\obj\Debug\StringWithWrongs.exe
+C:\Users\vladd\OneDrive\Рабочий стол\OOP\StringWithWrongs\obj\Debug\StringWithWrongs.pdb
